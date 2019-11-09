@@ -11,21 +11,15 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Chemistry, University of Minnesota, 2010
+* M.S. in Microbial Engineering, University of Minnesota, 2013
+* Ph.D in Bioinformatics, Boston University, 2018
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* July 2018 - Present: Scientist
+  * Agios Pharmaceuticals
+  * Cell metabolism and Computational Biology
   
 Skills
 ======
