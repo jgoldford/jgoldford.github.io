@@ -11,4 +11,4 @@ citation: 'Goldford, J. E., Hartman, H., Marsland R.,  Segre, D. &quot;Environme
 
 [Download paper here](http://jgoldford.github.io/files/Goldford_et_al_NatEcoEvol_2019.pdf)
 
-Recommended citation: Goldford, J. E., Hartman, H., Marsland R.,  Segre, D. "Environmental boundary conditions for the origin of life converge to an organo-sulfur metabolism." <i>Nature Ecology & Evolution 1</i>. (<i>in press</i>).
+Recommended citation: Goldford, J. E., Hartman, H., Marsland R.,  Segre, D. "Environmental boundary conditions for the origin of life converge to an organo-sulfur metabolism." <i>Nature Ecology & Evolution</i>. (<i>in press</i>).
