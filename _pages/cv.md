@@ -11,24 +11,15 @@ redirect_from:
 
 Education
 ======
-* B.S. in Chemistry, University of Minnesota, 2010
-* M.S. in Microbial Engineering, University of Minnesota, 2013
-* Ph.D in Bioinformatics, Boston University, 2018
+* Physics of Living Systems Postdoctoral Fellow, MIT, 2020-Present
+* Ph.D., Bioinformatics (Advisor: Daniel Segrè), Boston University, 2018
+* M.S., Microbial Engineering (Advisor: Igor Libourel), University of Minnesota, 2013
+* B.S. in Chemistry & Biochemistry, University of Minnesota, 2010
 
-Work experience
+Professional Appointments
 ======
-* July 2018 - Present: Scientist
-  * Agios Pharmaceuticals
-  * Cell metabolism and Computational Biology
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Physics of Living Systems Fellow, MIT, 2020-Present
+* Scientist, Agios Pharmaceuticals, 2018-2020
 
 Publications
 ======
@@ -48,6 +39,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+<!-- Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Peer reviewer for: <i>Nature Ecology & Evolution<\i> -->
