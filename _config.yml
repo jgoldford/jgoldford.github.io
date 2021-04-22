@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Joshua E. Goldford"
 title_separator          : "-"
 name                     : &name "Joshua E. Goldford"
-description              : &description "PhD Computational Biologist"
+description              : &description "Quantiative biologist interested in the evolution and maintenance of the biosphere "
 url                      : https://jgoldford.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jgoldford/jgoldford.github.io"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Joshua E. Goldford"
   avatar           : "goldford.jpg"
-  bio              : "Physics of Living Systems Fellow @ MIT"
+  bio              : "Physics of Living Systems Fellow, Massachusetts Institute of Technology"
   location         : "Cambridge, MA"
-  employer         : "Massachusetts Institute of Technology"
+  employer         : "MIT"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=joshua+goldford"
   googlescholar    : "https://scholar.google.com/citations?user=kPp09IIAAAAJ&hl=en"
   email            : "goldford@mit.edu"
@@ -178,9 +178,9 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  publications:
-    output: true
-    permalink: /:collection/:path/
+  # publications:
+  #   output: true
+  #   permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
@@ -227,15 +227,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: false
-      comment: true
+  # # _portfolio
+  # - scope:
+  #     path: ""
+  #     type: portfolio
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     share: true
+  #     comment: true
   # _talks
   - scope:
       path: ""
