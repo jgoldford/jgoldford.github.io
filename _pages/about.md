@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Joshua E. Goldford"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -12,9 +12,9 @@ I am a Physics of Living Systems Fellow in the department of Physics at Massachu
 
 The origin and early evolution of living systems
 ------
-The transition from prebiotic chemistry to a complex biochemical network capable of sustaining life on early Earth is a major unresolved enigma. It is unclear how metabolism could have originated, given the limited geochemical availability of complex biomolecules in ancient environments. I am interested in integrating multi-scale network analysis, physicochemical constraints, and key assumptions regarding the composition of ancient biomolecules and environments, to reconstruct plausible trajectories of metabolic 
-evolution.
+The transition from prebiotic chemistry to a complex biochemical network capable of sustaining life on early Earth is a major unresolved enigma. It is unclear how metabolism could have originated and evolved, given the limited geochemical availability of complex biomolecules in ancient environments.  
 
+I am interested in integrating multi-scale network analysis, physicochemical constraints, and geochemical support for the composition of ancient biomolecules and environments, to reconstruct plausible trajectories of metabolic evolution.  I am 
 
 
 Microbial ecology and metabolism
