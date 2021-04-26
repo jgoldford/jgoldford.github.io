@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Physics of Living Systems Fellow in the department of Physics at Massachusetts Institute of Technology.  I completed my Ph.D. in the Bioinformatics Program from Boston University working with Daniel Segre and Pankaj Mehta, as well as Alvaro Sanchez( Yale), and my M.S. in Microbial Engineering from the University of Minnesota. I use theory and computational modeling to study how the environment constrains the evolution of metabolic networks and shapes the structure of microbial communities.  Below are some thoughts and questions that motivate me in these research areas.
+I am a Physics of Living Systems Fellow in the department of Physics at Massachusetts Institute of Technology.  I completed my Ph.D. in the Bioinformatics Program from Boston University working with Daniel Segre and Pankaj Mehta, as well as Alvaro Sanchez( Yale), and my M.S. in Microbial Engineering from the University of Minnesota. I use theory and computational modeling to study how the environment constrains the evolution of metabolic networks and shapes the structure of microbial communities.  
+
+<!-- Below are some thoughts and questions that motivate me in these research areas. -->
 
 <!-- The origin and early evolution of the biosphere
 ------
