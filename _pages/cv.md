@@ -21,13 +21,12 @@ Professional Appointments
 * Physics of Living Systems Fellow, MIT, 2020-Present
 * Scientist, Agios Pharmaceuticals, 2018-2020
 
-Publications
+Selected Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
+<!--Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
@@ -39,6 +38,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-<!-- Service and leadership
+Service and leadership
 ======
 * Peer reviewer for: <i>Nature Ecology & Evolution<\i> -->
