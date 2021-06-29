@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+<a href="https://jgoldford.github.io/files/Goldford_CV.pdf">Download CV</a>
+
 Education
 ======
 * Physics of Living Systems Postdoctoral Fellow, MIT, 2020-Present

@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Physics of Living Systems Fellow in the department of Physics at Massachusetts Institute of Technology.  I completed my Ph.D. in the Bioinformatics Program from Boston University working with Daniel Segrè and Pankaj Mehta (BU), as well as Alvaro Sanchez (The Rowland Institute & Yale), and my M.S. in Microbial Engineering from the University of Minnesota. I use theory and computational modeling to study how the environment constrains the evolution of metabolic networks and shapes the structure of microbial communities.  <a href="https://github.com/jgoldford/jgoldford.github.io/blob/1fa8ff67b6be9fe962eb4e2faa84aaff0afc74fc/files/Goldford_CV.pdf">Here</a> is my CV.
+I am a Physics of Living Systems Fellow in the department of Physics at Massachusetts Institute of Technology.  I completed my Ph.D. in the Bioinformatics Program from Boston University working with Daniel Segrè and Pankaj Mehta (BU), as well as Alvaro Sanchez (The Rowland Institute & Yale), and my M.S. in Microbial Engineering from the University of Minnesota. I use theory and computational modeling to study how the environment constrains the evolution of metabolic networks and shapes the structure of microbial communities.  <a href="https://jgoldford.github.io/files/Goldford_CV.pdf">Here</a> is my CV.
 
 <!-- Below are some thoughts and questions that motivate me in these research areas. -->
 
