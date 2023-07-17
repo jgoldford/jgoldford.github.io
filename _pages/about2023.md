@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Scientist at Caltech. I was previously a Physics of Living Systems Fellow at Massachusetts Institute of Technology. I hold a Ph.D. in Bioinformaitcs from Boston University, and an M.S. in Microbial Engineering from the University of Minnesota. My primary focus lies in the study of how the environment shapes the evolution of metabolism at multiple scales, from enzymes to planetary-scale metabolic networks. By exploring the constraints imposed by the environment, I aim to unravel the mechanisms governing the evolution of biochemical systems. My ultimate goal is to shed light on how geochemistry could have transitioned to biochemistry. For further information about me, please refer to my CV, which can be accessed <a href="https://jgoldford.github.io/files/Goldford_CV.pdf">here</a>.
+I am a Research Scientist at Caltech. I was previously a Physics of Living Systems Fellow at Massachusetts Institute of Technology. I hold a Ph.D. in Bioinformatics from Boston University, and an M.S. in Microbial Engineering from the University of Minnesota. My primary focus lies in the study of how the environment shapes the evolution of metabolism at multiple scales, from enzymes to planetary-scale metabolic networks. By exploring the constraints imposed by the environment, I aim to unravel the mechanisms governing the evolution of biochemical systems. My ultimate goal is to shed light on how geochemistry could have transitioned to biochemistry. For further information about me, please refer to my CV, which can be accessed <a href="https://jgoldford.github.io/files/Goldford_CV.pdf">here</a>.
 
 Below are some thoughts and questions that motivate me in these research areas.
 
