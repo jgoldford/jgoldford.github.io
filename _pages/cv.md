@@ -13,7 +13,6 @@ redirect_from:
 
 Education
 ======
-* Physics of Living Systems Postdoctoral Fellow, MIT, 2020-Present
 * Ph.D., Bioinformatics (Advisor: Daniel Segrè), Boston University, 2018
 * M.S., Microbial Engineering (Advisor: Igor Libourel), University of Minnesota, 2013
 * B.S., Chemistry & Biochemistry, University of Minnesota, 2010
