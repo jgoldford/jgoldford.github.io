@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Joshua E. Goldford"
   avatar           : "goldford.jpg"
-  bio              : "Physics of Living Systems Fellow, Massachusetts Institute of Technology"
-  location         : "Cambridge, MA"
-  employer         : "MIT"
+  bio              : "Research Scientist / Computational Biochemist, Caltech"
+  location         : "Pasadena, CA"
+  employer         : "Caltech"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=joshua+goldford"
   googlescholar    : "https://scholar.google.com/citations?user=kPp09IIAAAAJ&hl=en"
-  email            : "goldford@mit.edu"
+  email            : "goldford@caltech.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

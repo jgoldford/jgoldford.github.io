@@ -20,7 +20,8 @@ Education
 
 Professional Appointments
 ======
-* Physics of Living Systems Fellow, MIT, 2020-Present
+* Research Scientist, Caltech, 2023-Present
+* Physics of Living Systems Fellow, MIT, 2020-2023
 * Scientist, Agios Pharmaceuticals, 2018-2020
 
 Selected Publications
